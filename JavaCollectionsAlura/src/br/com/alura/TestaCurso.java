@@ -1,5 +1,6 @@
 package br.com.alura;
 
+import java.util.Collections;
 import java.util.List;
 
 public class TestaCurso {
@@ -13,6 +14,6 @@ public class TestaCurso {
 		javaColecoes.adiciona(new Aula("Modelando com coleções" , 22));
 		
 		System.out.println(javaColecoes.getAulas());
-
+		
 	}
 }
